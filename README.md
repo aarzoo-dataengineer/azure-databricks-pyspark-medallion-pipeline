@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Retail Sales Data Engineering Pipeline — PySpark & Delta Lake
 
 An end-to-end portfolio project demonstrating a lakehouse-style retail analytics pipeline using **PySpark**, **Delta Lake**, and the **Bronze / Silver / Gold medallion architecture**.
@@ -150,3 +151,7 @@ Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username. Add that URL to
 - Stored processed datasets in Delta format and prepared analytical outputs for downstream reporting.
 
 Only describe work you have personally reviewed and can explain in an interview.
+=======
+# azure-databricks-pyspark-medallion-pipeline
+End-to-End Data Engineering using PySpark and Delta Lake
+>>>>>>> 03a5ac326aa1fe5fb26f71eaea94fb936f747b27
