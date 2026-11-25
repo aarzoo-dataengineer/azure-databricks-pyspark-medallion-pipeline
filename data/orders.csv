@@ -1,0 +1,12 @@
+order_id,customer_id,product_id,order_date,quantity,order_status
+O1001,C001,P001,2024-07-01,2,Completed
+O1002,C002,P002,2024-07-01,1,Completed
+O1003,C003,P003,2024-07-02,3,Completed
+O1004,C001,P004,2024-07-03,1,Completed
+O1005,C004,P005,2024-07-03,10,Completed
+O1006,C005,P001,2024-07-04,1,Cancelled
+O1007,C006,P003,2024-07-05,2,Completed
+O1008,C999,P001,2024-07-05,1,Completed
+O1008,C999,P001,2024-07-05,1,Completed
+O1009,C002,P005,2024-07-06,5,Completed
+O1010,C003,P002,2024-07-06,-1,Completed
